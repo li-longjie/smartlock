@@ -1,6 +1,12 @@
- # 智能门锁系统
+# 智能门锁系统
 
 基于 ESP32 开发的智能门锁系统,支持透明显示屏和小爱同学语音控制。
+
+## 演示视频
+
+[![基于ESP32实现的带透明显示，接入米家，支持小爱开门的智能指纹门锁](https://i2.hdslb.com/bfs/archive/20c03a03f1216270fb6031cd6f7716eb1df3fc17.jpg)](https://www.bilibili.com/video/BV1um4y127UL?vd_source=8eaced424e01e860c97bf01cbd3e4601)
+
+点击封面查看 B 站演示视频。
 
 ## 主要功能
 
